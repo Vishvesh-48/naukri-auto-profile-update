@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # --- CONFIGURATION ---
-RESUME_FILENAME = "my-resume.pdf"
+RESUME_FILENAME = "Vishveshwar-kolte-DevOps-Engineer-4.pdf"
 PROFILE_URL = "https://www.naukri.com/mnjuser/profile"
 COOKIES_JSON = os.getenv("NAUKRI_COOKIES")
 
